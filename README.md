@@ -1,4 +1,4 @@
-# AndrewSamirEmiratesAuction
+# Andrew Samir Emirates Auction
 
 -to make sure the countdowntime is still correct in recyclerview items during the scrolling save the end time in the model and calculate the remaining time everytime 
 
