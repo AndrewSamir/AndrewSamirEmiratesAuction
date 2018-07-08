@@ -3,19 +3,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/color_top_bar"
-    android:padding="@dimen/_15sdp"
-    android:orientation="horizontal">
+    android:orientation="horizontal"
+    android:padding="@dimen/_15sdp">
 
     <ImageView
         android:layout_width="wrap_content"
-        android:src="@drawable/ic_action_keyboard_backspace"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:rotation="@string/rotate"
+        android:src="@drawable/ic_action_keyboard_backspace" />
 
     <TextView
         android:layout_width="match_parent"
-        android:text="@string/cars_machinery"
+        android:layout_height="wrap_content"
         android:gravity="center"
+        android:text="@string/cars_machinery"
         android:textColor="@color/colorWhite"
-        android:textSize="@dimen/txt_large"
-        android:layout_height="wrap_content" />
+        android:textSize="@dimen/txt_large" />
 </RelativeLayout>
