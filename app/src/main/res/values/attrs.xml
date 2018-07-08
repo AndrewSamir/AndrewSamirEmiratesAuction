@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomItem" parent="@MainAttributes">
+        <attr name="ci_title" format="string" />
+        <attr name="ci_value" format="string" />
+        <attr name="ci_isLastItem" format="boolean" />
+    </declare-styleable>
+</resources>

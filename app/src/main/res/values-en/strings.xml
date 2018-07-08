@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cars_machinery"><![CDATA[Cars & Machinery]]></string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="gridView">Grid View</string>
+    <string name="lot">Lot#</string>
+    <string name="bids">Bids</string>
+    <string name="timeLeft">Time Left</string>
+</resources>

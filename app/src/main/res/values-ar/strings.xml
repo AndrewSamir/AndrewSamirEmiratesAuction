@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cars_machinery">السيارات و آلات</string>
+    <string name="filter">تنقية</string>
+    <string name="sort">ترتيب</string>
+    <string name="gridView">عرض الشبكة</string>
+    <string name="lot">الرقم</string>
+    <string name="bids">العروض</string>
+    <string name="timeLeft">الوقت المتبقي</string>
+</resources>

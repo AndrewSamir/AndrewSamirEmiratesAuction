@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="txt_large">@dimen/_17sdp</dimen>
+    <dimen name="txt_small">@dimen/_10sdp</dimen>
+    <dimen name="txt_default">@dimen/_12sdp</dimen>
+    <dimen name="radius_default">5dip</dimen>
+    <dimen name="margin_default">@dimen/_8sdp</dimen>
+    <dimen name="margin_small">@dimen/_5sdp</dimen>
+</resources>
